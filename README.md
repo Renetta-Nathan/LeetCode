@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
