@@ -4,3 +4,4 @@ class Solution(object):
         binsum=bin(sum)
         return binsum[2:]
         
+        
