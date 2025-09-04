@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Renetta-Nathan/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Renetta-Nathan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
