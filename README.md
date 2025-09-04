@@ -17,6 +17,7 @@
 | [0009-palindrome-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Renetta-Nathan/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
 | ------- |
