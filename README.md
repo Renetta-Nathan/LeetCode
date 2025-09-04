@@ -1,1 +1,1 @@
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Renetta)](https://leetcode.com/Renetta)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Renetta?theme=unicorn)](https://leetcode.com/Renetta)
