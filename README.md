@@ -18,6 +18,7 @@
 | [0067-add-binary](https://github.com/Renetta-Nathan/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0507-perfect-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Renetta-Nathan/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Two Pointers
 |  |
 | ------- |
