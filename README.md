@@ -22,6 +22,7 @@
 | [0412-fizz-buzz](https://github.com/Renetta-Nathan/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0507-perfect-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Renetta-Nathan/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Renetta-Nathan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0067-add-binary](https://github.com/Renetta-Nathan/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0191-number-of-1-bits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Renetta-Nathan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
