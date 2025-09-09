@@ -28,6 +28,7 @@
 | [0507-perfect-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0507-perfect-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Renetta-Nathan/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Renetta-Nathan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0191-number-of-1-bits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Renetta-Nathan/LeetCode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Renetta-Nathan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
