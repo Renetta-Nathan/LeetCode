@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Renetta-Nathan/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0136-single-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Renetta-Nathan/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -30,6 +31,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Renetta-Nathan/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Renetta-Nathan/LeetCode/tree/master/0125-valid-palindrome) |
+| [1019-squares-of-a-sorted-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 | ------- |
 | [0326-power-of-three](https://github.com/Renetta-Nathan/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Renetta-Nathan/LeetCode/tree/master/0342-power-of-four) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
