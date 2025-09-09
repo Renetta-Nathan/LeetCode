@@ -11,6 +11,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Renetta-Nathan/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0067-add-binary](https://github.com/Renetta-Nathan/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Renetta-Nathan/LeetCode/tree/master/0412-fizz-buzz) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Renetta-Nathan/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Recursion
 |  |
 | ------- |
