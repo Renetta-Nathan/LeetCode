@@ -20,6 +20,7 @@
 | [0067-add-binary](https://github.com/Renetta-Nathan/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Renetta-Nathan/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Renetta-Nathan/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Renetta-Nathan/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0507-perfect-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Renetta-Nathan/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -48,6 +49,7 @@
 | [0067-add-binary](https://github.com/Renetta-Nathan/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/Renetta-Nathan/LeetCode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Renetta-Nathan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
@@ -75,4 +77,5 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Renetta-Nathan/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Renetta-Nathan/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
