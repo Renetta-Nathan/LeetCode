@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Renetta-Nathan/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Renetta-Nathan/LeetCode/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/Renetta-Nathan/LeetCode/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -47,6 +48,7 @@
 | [0058-length-of-last-word](https://github.com/Renetta-Nathan/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Renetta-Nathan/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Renetta-Nathan/LeetCode/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/Renetta-Nathan/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Renetta-Nathan/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Renetta-Nathan/LeetCode/tree/master/0742-to-lower-case) |
 ## String Matching
@@ -60,6 +62,7 @@
 | [0136-single-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Renetta-Nathan/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Renetta-Nathan/LeetCode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Renetta-Nathan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Divide and Conquer
@@ -94,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Renetta-Nathan/LeetCode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
