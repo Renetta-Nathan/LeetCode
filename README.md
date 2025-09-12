@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Renetta-Nathan/LeetCode/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/Renetta-Nathan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0136-single-number) |
 | [0898-transpose-matrix](https://github.com/Renetta-Nathan/LeetCode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Renetta-Nathan/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
