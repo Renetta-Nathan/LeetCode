@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Renetta-Nathan/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Renetta-Nathan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/Renetta-Nathan/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Renetta-Nathan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0136-single-number) |
 | [0898-transpose-matrix](https://github.com/Renetta-Nathan/LeetCode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Renetta-Nathan/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Renetta-Nathan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
 | ------- |
