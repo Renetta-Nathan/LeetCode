@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Renetta-Nathan/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Renetta-Nathan/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/Renetta-Nathan/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Renetta-Nathan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Renetta-Nathan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Renetta-Nathan/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Renetta-Nathan/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Renetta-Nathan/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Renetta-Nathan/LeetCode/tree/master/0326-power-of-three) |
