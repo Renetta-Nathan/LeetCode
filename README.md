@@ -32,6 +32,7 @@
 | [0013-roman-to-integer](https://github.com/Renetta-Nathan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Renetta-Nathan/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Renetta-Nathan/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Renetta-Nathan/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Renetta-Nathan/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Renetta-Nathan/LeetCode/tree/master/0342-power-of-four) |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Renetta-Nathan/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Renetta-Nathan/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
