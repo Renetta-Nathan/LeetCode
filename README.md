@@ -41,6 +41,7 @@
 | [0326-power-of-three](https://github.com/Renetta-Nathan/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Renetta-Nathan/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Renetta-Nathan/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Renetta-Nathan/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Renetta-Nathan/LeetCode/tree/master/0507-perfect-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Renetta-Nathan/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Renetta-Nathan/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -67,6 +68,7 @@
 | [0125-valid-palindrome](https://github.com/Renetta-Nathan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Renetta-Nathan/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Renetta-Nathan/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Renetta-Nathan/LeetCode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Renetta-Nathan/LeetCode/tree/master/0742-to-lower-case) |
 ## String Matching
 |  |
@@ -94,6 +96,7 @@
 | [0067-add-binary](https://github.com/Renetta-Nathan/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Renetta-Nathan/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Renetta-Nathan/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Renetta-Nathan/LeetCode/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/Renetta-Nathan/LeetCode/tree/master/0898-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Renetta-Nathan/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Number Theory
